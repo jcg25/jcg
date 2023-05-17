@@ -1,0 +1,21 @@
+.a{
+	background-color: #F9F6F6;
+
+}
+footer{
+	padding: 30px;
+	background-color: #D4D4D4;
+	text-align: center;
+}
+.klang{
+	column-count: 2;
+	margin-left: 50px;
+}
+.kleng{
+	column-count: 2;
+	margin-left: 50px;
+}
+.kling{
+	column-count: 2;
+	margin-left: 50px;
+}
